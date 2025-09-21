@@ -1,0 +1,2 @@
+# Manufacturing-Process-Optimization-Quality-Analytics-Initiative
+Analyzed over 2 million records of manufacturing sensor and quality data using Python (Pandas, NumPy) to identify process bottlenecks, resulting in a 15% reduction in production cycle time. • Developed predictive quality models using scikit-learn to detect defects early, improving defect detection accuracy by 20% and reducing rework costs by 12%. 
