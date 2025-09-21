@@ -8,8 +8,7 @@ import seaborn as sns
 # Set style
 sns.set(style="whitegrid")
 
-
-df.to_csv("manufacturing_data.csv")
+df = pd.read_csv('data/manufacturing_data.csv')
 
 # =============================
 # 📈 KPI Calculations
