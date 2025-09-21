@@ -55,3 +55,21 @@ Monitor and improve yield performance
 Build a foundation for predictive maintenance or process automation
 
 ---
+
+Simulates realistic manufacturing data (1,000 production batches)
+
+Calculates key performance indicators (KPIs):
+
+✅ Production time per machine
+
+✅ Defect rates
+
+✅ Downtime impact
+
+✅ Yield rate trends
+
+✅ Operator efficiency
+
+Generates 4 high-quality plots
+
+Outputs a summary of critical manufacturing KPIs
